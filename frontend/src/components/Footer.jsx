@@ -2,7 +2,9 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <div>
+      <img src="/icons/Footer.png" alt="footer"></img>
+    </div>
   )
 }
 
