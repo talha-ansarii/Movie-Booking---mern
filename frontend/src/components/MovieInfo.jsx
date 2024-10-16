@@ -5,13 +5,13 @@ function MovieInfo(){
         
         <div className=" flex-grow w-[90%] mx-auto font-roboto">
             <h3 className="font-roboto font-bold text-4xl">SPIDERMAN : NO WAY HOME</h3>
-            <p><b>Title:</b> Spider-Man: No Way Home <br />
-                <b>Genre: </b>Action, Adventure, Science Fiction <br />
-                <b>Duration: </b> 2h 28min <br />
-                <b>Release Date: </b> December 17, 2021 <br />
-                <b>Rating: </b> PG-13 <br />
-                <b>Director: </b> Jon Watts <br />
-                <b>Starring: </b> Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon, Willem Dafoe, Jamie Foxx
+            <p> Title: <b>Spider-Man: No Way Home </b> <br />
+                Genre: Action, Adventure, Science Fiction <br />
+                Duration:  2h 28min <br />
+                Release Date: December 17, 2021 <br />
+                Rating: PG-13 <br />
+                Director: Jon Watts <br />
+                Starring: Tom Holland, Zendaya, Benedict Cumberbatch, Jacob Batalon, Willem Dafoe, Jamie Foxx
             </p>
             <br />
 
@@ -28,10 +28,9 @@ function MovieInfo(){
                     <p className="mb-1">October 14, 2024 - 9:30 PM </p>
                 </div>
                 <div className="bookButtons flex flex-col w-[100px]">
-                    <button className="button bg-[#1A2C50] text-yellow-400 rounded-lg mb-1">Book</button>
-                    <button className="button bg-[#1A2C50] text-yellow-400 rounded-lg mb-1">Book</button>
-                    <button className="button bg-[#1A2C50] text-yellow-400 rounded-lg mb-1">Book</button>
-                    
+                    <button className="button bg-[#1A2C50] text-yellow-400 rounded-lg mb-1 hover:bg-[#282764]">Book</button>
+                    <button className="button bg-[#1A2C50] text-yellow-400 rounded-lg mb-1 hover:bg-[#282764]">Book</button>
+                    <button className="button bg-[#1A2C50] text-yellow-400 rounded-lg mb-1 hover:bg-[#282764]">Book</button>
                     
                 </div>
             </div>
